@@ -119,11 +119,3 @@ Berdasarkan pohon diatas, didapatkan NID dan netmask untuk setiap subnet sebagai
 
 1. Lupa memberikan IP kepada server saat melakukan subnetting menggunakan metode VLSM
 2. Kebingungan waktu membuat pohon untuk melakukan subnetting menggunakan metode CIDR
-
-## Pembagian Tugas
-
-|Nama|Soal|
-|:------------:|:---------------------:|
-|Fairuz Hasna Rofifah|1-5|
-|Ahmad Aunul Ma`bud|6-10|
-|Ihsannur Rahman Qalbi|10-13|
