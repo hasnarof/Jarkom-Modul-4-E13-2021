@@ -107,7 +107,7 @@ Dengan kebutuhan IP dan netmask yang sama seperti VLSM, kemudian diberlakukan pe
 
 ![Untitled](Jarkom-E13-Modul-4%20ddca130ac5de47ccb3fb3f7d35341588/Untitled.png)
 
-Subnet besar yang dibentuk memiliki netmask **/19**. Kemudian dihitung pembagian IP berdasarkan pengelompokan dan netmask tersebut menggunakan pohon seperti gambar di bawah.
+Subnet besar yang dibentuk memiliki netmask **/15**. Kemudian dihitung pembagian IP berdasarkan pengelompokan dan netmask tersebut menggunakan pohon seperti gambar di bawah.
 
 ![Untitled](Jarkom-E13-Modul-4%20ddca130ac5de47ccb3fb3f7d35341588/Untitled%201.png)
 
