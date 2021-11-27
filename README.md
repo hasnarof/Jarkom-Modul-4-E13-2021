@@ -113,7 +113,7 @@ Subnet besar yang dibentuk memiliki netmask **/19**. Kemudian dihitung pembagia
 
 Berdasarkan pohon diatas, didapatkan NID dan netmask untuk setiap subnet sebagai berikut:
 
-[Untitled](Jarkom-E13-Modul-4%20ddca130ac5de47ccb3fb3f7d35341588/Untitled3.png)
+![Untitled](Jarkom-E13-Modul-4%20ddca130ac5de47ccb3fb3f7d35341588/Untitled3.png)
 
 ## Kendala
 
