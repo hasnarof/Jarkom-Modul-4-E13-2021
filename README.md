@@ -46,8 +46,8 @@ Subnet besar yang dibentuk memiliki NID **192.206.0.0** dengan netmask **/19*
 Kemudian dilakukan konfigurasi static routing pada setiap router yang sudah dibuat berdasarkan dengan konfigurasi sebagai berikut:
 
 - **FOOSHA**
-    
-    > 192.206.24.0/21 via 192.206.0.6
+    ```
+    192.206.24.0/21 via 192.206.0.6
     192.206.4.0/22 via 192.206.0.6
     192.206.8.0/22 via 192.206.0.10
     192.206.16.0/22 via 192.206.0.10
@@ -62,40 +62,42 @@ Kemudian dilakukan konfigurasi static routing pada setiap router yang sudah dibu
     192.206.0.4/30 via 192.206.0.6
     192.206.0.32/30 via 192.206.0.34
     192.206.0.36/30 via 192.206.0.10
-    > 
-- **WATER7**
     
-    > 192.206.0.128/25 via 192.206.0.2
+    ```
+- **WATER7**
+    ```
+    192.206.0.128/25 via 192.206.0.2
     192.206.24.0/21 via 192.206.0.2
     0.0.0.0/0 via 192.206.0.5
-    > 
+    ```
 - **PUCCI**
-    
+    ```
     > 0.0.0.0/0 via 192.206.0.1
-    > 
+    ```
 - **GUANHAO**
     
-    > 0.0.0.0/0 via 192.206.0.9
+    ```
+    0.0.0.0/0 via 192.206.0.9
     192.206.0.8/30 via 192.206.2.2
     192.206.0.16/28 via 192.206.2.2
     192.206.0.12/30 via 192.206.0.14
     192.206.1.0/24 via 192.206.0.14
     192.206.16.0/22 via 192.206.0.14
     192.206.0.36/30 via 192.206.0.14
-    > 
+    ```
 - **OIMO**
-    
-    > 0.0.0.0/0 via 192.206.0.13
+    ```
+    0.0.0.0/0 via 192.206.0.13
     192.206.16.0/22 via 192.206.1.3
-    > 
+    ```
 - **SEASTONE**
-    
-    > 0.0.0.0/0 via 192.206.1.1
-    > 
+    ```
+    0.0.0.0/0 via 192.206.1.1
+    ```
 - **ALABASTA**
-    
-    > 0.0.0.0/0 via 192.206.2.1
-    > 
+    ```
+    0.0.0.0/0 via 192.206.2.1
+    ```
 
 # CIDR (**Classless Inter Domain Routing)**
 
@@ -120,6 +122,10 @@ Berdasarkan pohon diatas, didapatkan NID dan netmask untuk setiap subnet sebagai
 1. Lupa memberikan IP kepada server saat melakukan subnetting menggunakan metode VLSM
 2. Kebingungan waktu membuat pohon untuk melakukan subnetting menggunakan metode CIDR
 
+
+### Pembagian Tugas
+```
 |Fairuz Hasna Rofifah|1-5 Topologi GNS3, Topologi CPT|
 |Ahmad Aunul Ma`bud|Topologi GNS3, Pembagian Subnet GNS3|
 |Ihsannur Rahman Qalbi|Routing CPT,Pembagian Subnet CPT|
+```
