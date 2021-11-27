@@ -124,8 +124,8 @@ Berdasarkan pohon diatas, didapatkan NID dan netmask untuk setiap subnet sebagai
 
 
 ### Pembagian Tugas
-```
-|Fairuz Hasna Rofifah|1-5 Topologi GNS3, Topologi CPT|
+|Nama|Pengerjaan|
+|:------------:|:---------------------:|
+|Fairuz Hasna Rofifah|Topologi GNS3, Topologi CPT|
 |Ahmad Aunul Ma`bud|Topologi GNS3, Pembagian Subnet GNS3|
 |Ihsannur Rahman Qalbi|Routing CPT,Pembagian Subnet CPT|
-```
