@@ -119,3 +119,7 @@ Berdasarkan pohon diatas, didapatkan NID dan netmask untuk setiap subnet sebagai
 
 1. Lupa memberikan IP kepada server saat melakukan subnetting menggunakan metode VLSM
 2. Kebingungan waktu membuat pohon untuk melakukan subnetting menggunakan metode CIDR
+
+|Fairuz Hasna Rofifah|1-5 Topologi GNS3, Topologi CPT|
+|Ahmad Aunul Ma`bud|Topologi GNS3, Pembagian Subnet GNS3|
+|Ihsannur Rahman Qalbi|Routing CPT,Pembagian Subnet CPT|
